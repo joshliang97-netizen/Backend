@@ -6,7 +6,7 @@
     "start": "node app.js"
   "dependencies":
     "express": "^4.18.2",
-    "mysql2": "^3.9.7",  <-- ¡Esta línea es crucial!
+    "mysql2": "^3.9.7",  
     "otras-dependencias": "^1.0.0"
   "scripts": 
     "start": "node app.js"
